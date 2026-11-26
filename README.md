@@ -24,6 +24,16 @@ Cisco 장비 사용 가능
 C, 파이썬 프로그래밍 개발 가능
 
 ---
+
+## 🛠 보유 자격증
+정보기기운용 기능사
+
+네트워크 관리자 2급
+
+리눅스 마스터 2급
+
+태권도 3단
+---
 ## 관심사 & 취미
 
 🚙 자동차 시승
@@ -43,4 +53,4 @@ C, 파이썬 프로그래밍 개발 가능
 
 Email: 0109choi@naver.com
 
-GitHub: choiwj0109.github.com
+GitHub: https://github.com/choiwj0109
