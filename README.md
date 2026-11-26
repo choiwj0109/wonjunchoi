@@ -1,6 +1,7 @@
-👋 안녕하세요 최원준입니다!<br><br>
+👋 안녕하세요 최원준입니다!
+<p>
 <img width="354" height="472" alt="choiwonjun" src="https://github.com/user-attachments/assets/fd61b445-a8e7-4520-a9b1-c1d81fbbba7b" />
-<br><br>
+</p>
 저는 경상국립대학교 컴퓨터공학과 3학년에 재학중입니다.
 저는 전기, 전자, 컴퓨터, 네트워크, 보안, 자동차 쪽을 되게 좋아합니다.
 자동차는 GM대우 시절 차량인 알페온 3.0을 한대 보유중입니다.
